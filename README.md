@@ -6,7 +6,8 @@
 提取码：m7zx 
 
 ## 数据集地址
-正在上传
+链接：https://pan.baidu.com/s/1yS-u_IbGFgzTyVkC_5PUiA 
+提取码：g22t 
 
 ## 运行方法
 - 下载模型，放在根目录下
