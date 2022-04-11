@@ -12,7 +12,6 @@
 ### 预处理过的数据集
 链接：https://pan.baidu.com/s/1utNThk488z9yttFI7C-PKQ 
 提取码：gv4j 
---来自百度网盘超级会员V3的分享
 
 ## 运行方法
 - 下载模型，放在根目录下
